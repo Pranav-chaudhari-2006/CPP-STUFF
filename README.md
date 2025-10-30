@@ -43,7 +43,7 @@
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/your-username/CPP-STUFF.git
+git clone https://github.com/Pranav-Chaudhari-2006/CPP-STUFF.git
 
 # 2. Navigate to the project folder
 cd CPP-STUFF
